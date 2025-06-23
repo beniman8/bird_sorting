@@ -26,7 +26,7 @@ class Game:
             
             #draw 
             
-            
+            self.display_surface.fill(COLORS['red'])
             pygame.display.update()
             
             
