@@ -1,0 +1,13 @@
+# create random images appear on the list, that later on we will sort 
+
+#click the image and make it go into a different location
+
+#create an array or list of areas where our bird are going to appear 
+
+# we can only select the bird that is first on the list 
+
+# we can only send it to the new location if the bird in that new location is the same kind of bird as him
+
+
+
+# when you have 5 birds of the same kind in and area we make them fly away
